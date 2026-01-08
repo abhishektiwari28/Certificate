@@ -14,3 +14,8 @@ uniphore
 google adk
 gcp
 langchain, langgraph, langsmith
+elevenlabs, twelvelabs
+
+// Dataset
+kaggle
+zillow
