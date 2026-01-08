@@ -10,3 +10,7 @@ Damage claim detection
 // Tools
 antigravity
 amazon q
+uniphore
+google adk
+gcp
+langchain, langgraph, langsmith
